@@ -1,0 +1,174 @@
+Some(ScalaSig version 5.0
+0:	ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None)
+1:	MyRecordAF
+2:	<empty>
+3:	<empty>
+4:	NoSymbol
+5:	ClassInfoType(ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None),List(TypeRefType(ThisType(scala),scala.AnyRef,List()), TypeRefType(ThisType(scala),scala.Product,List()), TypeRefType(ThisType(scala),scala.Serializable,List())))
+6:	TypeRefType(ThisType(scala),scala.AnyRef,List())
+7:	ThisType(scala)
+8:	scala
+9:	scala
+10:	scala.AnyRef
+11:	AnyRef
+12:	TypeRefType(ThisType(scala),scala.Product,List())
+13:	scala.Product
+14:	Product
+15:	TypeRefType(ThisType(scala),scala.Serializable,List())
+16:	scala.Serializable
+17:	Serializable
+
+18:	MethodSymbol(x, owner=0, flags=29400200, info=20 ,None)
+19:	x
+20:	NullaryMethodType(TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List()))
+
+21:	TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List())
+
+22:	ThisType(<empty>)
+23:	<empty>.MyRecordAE
+24:	MyRecordAE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25:	MethodSymbol(x , owner=0, flags=21080004, info=21 ,None)
+26:	x 
+
+27:	MethodSymbol(<init>, owner=0, flags=200, info=29 ,None)
+28:	<init>
+29:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=27, flags=2000, info=21 ,None)))
+30:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None),List())
+
+
+
+31:	MethodSymbol(x, owner=27, flags=2000, info=21 ,None)
+
+32:	MethodSymbol(copy, owner=0, flags=200200, info=34 ,None)
+33:	copy
+
+34:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=32, flags=2002000, info=21 ,None)))
+35:	MethodSymbol(x, owner=32, flags=2002000, info=21 ,None)
+36:	MethodSymbol(copy$default$1, owner=0, flags=2200200, info=38 ,None)
+37:	copy$default$1
+38:	NullaryMethodType(AnnotatedType(TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List()),List(40)))
+39:	AnnotatedType(TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List()),List(40))
+40:	AnnotInfo(List(41))
+41:	TypeRefType(ThisType(scala.annotation.unchecked),scala.annotation.unchecked.uncheckedVariance,List())
+42:	ThisType(scala.annotation.unchecked)
+43:	scala.annotation.unchecked
+44:	unchecked
+45:	scala.annotation
+46:	annotation
+47:	scala.annotation.unchecked.uncheckedVariance
+48:	uncheckedVariance
+
+49:	MethodSymbol(productPrefix, owner=0, flags=200220, info=51 ,None)
+50:	productPrefix
+51:	NullaryMethodType(TypeRefType(ThisType(java.lang),java.lang.String,List()))
+52:	TypeRefType(ThisType(java.lang),java.lang.String,List())
+
+53:	ThisType(java.lang)
+54:	java.lang
+55:	lang
+56:	java
+57:	java
+
+58:	java.lang.String
+
+59:	String
+
+60:	MethodSymbol(productArity, owner=0, flags=200200, info=62 ,None)
+61:	productArity
+
+62:	NullaryMethodType(TypeRefType(ThisType(scala),scala.Int,List()))
+
+63:	TypeRefType(ThisType(scala),scala.Int,List())
+64:	scala.Int
+65:	Int
+
+66:	MethodSymbol(productElement, owner=0, flags=200200, info=68 ,None)
+67:	productElement
+68:	MethodType(TypeRefType(ThisType(scala),scala.Any,List()),List(MethodSymbol(x$1, owner=66, flags=202000, info=63 ,None)))
+
+69:	TypeRefType(ThisType(scala),scala.Any,List())
+70:	scala.Any
+71:	Any
+
+72:	MethodSymbol(x$1, owner=66, flags=202000, info=63 ,None)
+73:	x$1
+74:	MethodSymbol(productIterator, owner=0, flags=200220, info=76 ,None)
+75:	productIterator
+76:	NullaryMethodType(TypeRefType(ThisType(scala.collection),scala.collection.Iterator,List(TypeRefType(ThisType(scala),scala.Any,List()))))
+77:	TypeRefType(ThisType(scala.collection),scala.collection.Iterator,List(TypeRefType(ThisType(scala),scala.Any,List())))
+78:	ThisType(scala.collection)
+79:	scala.collection
+80:	collection
+81:	scala.collection.Iterator
+82:	Iterator
+83:	MethodSymbol(canEqual, owner=0, flags=200200, info=85 ,None)
+84:	canEqual
+85:	MethodType(TypeRefType(ThisType(scala),scala.Boolean,List()),List(MethodSymbol(x$1, owner=83, flags=202000, info=69 ,None)))
+
+86:	TypeRefType(ThisType(scala),scala.Boolean,List())
+87:	scala.Boolean
+88:	Boolean
+
+89:	MethodSymbol(x$1, owner=83, flags=202000, info=69 ,None)
+90:	MethodSymbol(hashCode, owner=0, flags=200220, info=92 ,None)
+91:	hashCode
+92:	MethodType(TypeRefType(ThisType(scala),scala.Int,List()),List())
+93:	MethodSymbol(toString, owner=0, flags=200220, info=95 ,None)
+94:	toString
+95:	MethodType(TypeRefType(ThisType(java.lang),java.lang.String,List()),List())
+96:	MethodSymbol(equals, owner=0, flags=200220, info=98 ,None)
+97:	equals
+98:	MethodType(TypeRefType(ThisType(scala),scala.Boolean,List()),List(MethodSymbol(x$1, owner=96, flags=202000, info=69 ,None)))
+99:	MethodSymbol(x$1, owner=96, flags=202000, info=69 ,None)
+100:	ObjectSymbol(MyRecordAF, owner=<empty>, flags=200400, info=102 )
+101:	MyRecordAF
+102:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=200400, info=104 ,None),List())
+103:	ClassSymbol(MyRecordAF, owner=<empty>, flags=200400, info=104 ,None)
+104:	ClassInfoType(ClassSymbol(MyRecordAF, owner=<empty>, flags=200400, info=104 ,None),List(TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction1,List(TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List()), TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None),List()))), TypeRefType(ThisType(scala),scala.Serializable,List())))
+105:	TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction1,List(TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List()), TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None),List())))
+106:	ThisType(scala.runtime)
+107:	scala.runtime
+108:	runtime
+109:	scala.runtime.AbstractFunction1
+110:	AbstractFunction1
+111:	MethodSymbol(<init>, owner=103, flags=200, info=112 ,None)
+112:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=200400, info=104 ,None),List()),List())
+113:	MethodSymbol(toString, owner=103, flags=200222, info=95 ,None)
+114:	MethodSymbol(apply, owner=103, flags=200240, info=116 ,None)
+115:	apply
+
+116:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordAF, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=114, flags=2000, info=21 ,None)))
+117:	MethodSymbol(x, owner=114, flags=2000, info=21 ,None)
+
+118:	MethodSymbol(unapply, owner=103, flags=200240, info=120 ,None)
+119:	unapply
+120:	MethodType(TypeRefType(ThisType(scala),scala.Option,List(TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List()))),List(MethodSymbol(x$0, owner=118, flags=2000, info=30 ,None)))
+
+121:	TypeRefType(ThisType(scala),scala.Option,List(TypeRefType(ThisType(<empty>),<empty>.MyRecordAE,List())))
+
+122:	scala.Option
+123:	Option
+
+124:	MethodSymbol(x$0, owner=118, flags=2000, info=30 ,None)
+125:	x$0
+126:	MethodSymbol(readResolve, owner=103, flags=200204, info=128 ,None)
+127:	readResolve
+128:	MethodType(TypeRefType(ThisType(java.lang),java.lang.Object,List()),List())
+129:	TypeRefType(ThisType(java.lang),java.lang.Object,List())
+130:	java.lang.Object
+131:	Object)

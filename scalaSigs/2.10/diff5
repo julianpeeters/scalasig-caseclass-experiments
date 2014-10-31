@@ -1,0 +1,64 @@
+2,3c2,3
+< 0:	ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None)
+< 1:	MyRecordB
+---
+> 0:	ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None)
+> 1:	MyRecordG
+7c7
+< 5:	ClassInfoType(ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List(TypeRefType(ThisType(scala),scala.AnyRef,List()), TypeRefType(ThisType(scala),scala.Product,List()), TypeRefType(ThisType(scala),scala.Serializable,List())))
+---
+> 5:	ClassInfoType(ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None),List(TypeRefType(ThisType(scala),scala.AnyRef,List()), TypeRefType(ThisType(scala),scala.Product,List()), TypeRefType(ThisType(scala),scala.Serializable,List())))
+22,25c22,25
+< 20:	NullaryMethodType(TypeRefType(ThisType(scala),scala.Byte,List()))
+< 21:	TypeRefType(ThisType(scala),scala.Byte,List())
+< 22:	scala.Byte
+< 23:	Byte
+---
+> 20:	NullaryMethodType(TypeRefType(ThisType(scala),scala.Double,List()))
+> 21:	TypeRefType(ThisType(scala),scala.Double,List())
+> 22:	scala.Double
+> 23:	Double
+30,31c30,31
+< 28:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=26, flags=2000, info=21 ,None)))
+< 29:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List())
+---
+> 28:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=26, flags=2000, info=21 ,None)))
+> 29:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None),List())
+36c36
+< 34:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=32, flags=2002000, info=21 ,None)))
+---
+> 34:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=32, flags=2002000, info=21 ,None)))
+40,41c40,41
+< 38:	NullaryMethodType(AnnotatedType(TypeRefType(ThisType(scala),scala.Byte,List()),List(40)))
+< 39:	AnnotatedType(TypeRefType(ThisType(scala),scala.Byte,List()),List(40))
+---
+> 38:	NullaryMethodType(AnnotatedType(TypeRefType(ThisType(scala),scala.Double,List()),List(40)))
+> 39:	AnnotatedType(TypeRefType(ThisType(scala),scala.Double,List()),List(40))
+102,107c102,107
+< 100:	ObjectSymbol(MyRecordB, owner=<empty>, flags=200400, info=102 )
+< 101:	MyRecordB
+< 102:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=104 ,None),List())
+< 103:	ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=104 ,None)
+< 104:	ClassInfoType(ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=104 ,None),List(TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction1,List(TypeRefType(ThisType(scala),scala.Byte,List()), TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List()))), TypeRefType(ThisType(scala),scala.Serializable,List())))
+< 105:	TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction1,List(TypeRefType(ThisType(scala),scala.Byte,List()), TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List())))
+---
+> 100:	ObjectSymbol(MyRecordG, owner=<empty>, flags=200400, info=102 )
+> 101:	MyRecordG
+> 102:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=200400, info=104 ,None),List())
+> 103:	ClassSymbol(MyRecordG, owner=<empty>, flags=200400, info=104 ,None)
+> 104:	ClassInfoType(ClassSymbol(MyRecordG, owner=<empty>, flags=200400, info=104 ,None),List(TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction1,List(TypeRefType(ThisType(scala),scala.Double,List()), TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None),List()))), TypeRefType(ThisType(scala),scala.Serializable,List())))
+> 105:	TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction1,List(TypeRefType(ThisType(scala),scala.Double,List()), TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None),List())))
+114c114
+< 112:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=104 ,None),List()),List())
+---
+> 112:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=200400, info=104 ,None),List()),List())
+118c118
+< 116:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=114, flags=2000, info=21 ,None)))
+---
+> 116:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordG, owner=<empty>, flags=40, info=5 ,None),List()),List(MethodSymbol(x, owner=114, flags=2000, info=21 ,None)))
+122,123c122,123
+< 120:	MethodType(TypeRefType(ThisType(scala),scala.Option,List(TypeRefType(ThisType(scala),scala.Byte,List()))),List(MethodSymbol(x$0, owner=118, flags=2000, info=29 ,None)))
+< 121:	TypeRefType(ThisType(scala),scala.Option,List(TypeRefType(ThisType(scala),scala.Byte,List())))
+---
+> 120:	MethodType(TypeRefType(ThisType(scala),scala.Option,List(TypeRefType(ThisType(scala),scala.Double,List()))),List(MethodSymbol(x$0, owner=118, flags=2000, info=29 ,None)))
+> 121:	TypeRefType(ThisType(scala),scala.Option,List(TypeRefType(ThisType(scala),scala.Double,List())))

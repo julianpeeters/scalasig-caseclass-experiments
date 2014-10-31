@@ -1,0 +1,306 @@
+[0m[[0minfo[0m] [0mLoading global plugins from /home/julianpeeters/.sbt/plugins[0m
+[0m[[0minfo[0m] [0mSet current project to scalasig-caseclass-experiments (in build file:/home/julianpeeters/scalasig-caseclass-experiments/)[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /home/julianpeeters/scalasig-caseclass-experiments/target/scala-2.10/classes...[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:1: expected class or object definition[0m
+[0m[[31merror[0m] [0mScalaSig version 5.0[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:2: expected class or object definition[0m
+[0m[[31merror[0m] [0m0:	ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:3: expected class or object definition[0m
+[0m[[31merror[0m] [0m1:	MyRecordB[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:4: expected class or object definition[0m
+[0m[[31merror[0m] [0m2:	<empty>[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:5: expected class or object definition[0m
+[0m[[31merror[0m] [0m3:	<empty>[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:6: expected class or object definition[0m
+[0m[[31merror[0m] [0m4:	NoSymbol[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:7: expected class or object definition[0m
+[0m[[31merror[0m] [0m5:	ClassInfoType(ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List(TypeRefType(ThisType(scala),scala.AnyRef,List()), TypeRefType(ThisType(scala),scala.Product,List()), TypeRefType(ThisType(scala),scala.Serializable,List())))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:8: expected class or object definition[0m
+[0m[[31merror[0m] [0m6:	TypeRefType(ThisType(scala),scala.AnyRef,List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:9: expected class or object definition[0m
+[0m[[31merror[0m] [0m7:	ThisType(scala)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:10: expected class or object definition[0m
+[0m[[31merror[0m] [0m8:	scala[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:11: expected class or object definition[0m
+[0m[[31merror[0m] [0m9:	scala[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:12: expected class or object definition[0m
+[0m[[31merror[0m] [0m10:	scala.AnyRef[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:13: expected class or object definition[0m
+[0m[[31merror[0m] [0m11:	AnyRef[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:14: expected class or object definition[0m
+[0m[[31merror[0m] [0m12:	TypeRefType(ThisType(scala),scala.Product,List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:15: expected class or object definition[0m
+[0m[[31merror[0m] [0m13:	scala.Product[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:16: expected class or object definition[0m
+[0m[[31merror[0m] [0m14:	Product[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:17: expected class or object definition[0m
+[0m[[31merror[0m] [0m15:	TypeRefType(ThisType(scala),scala.Serializable,List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:18: expected class or object definition[0m
+[0m[[31merror[0m] [0m16:	scala.Serializable[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:19: expected class or object definition[0m
+[0m[[31merror[0m] [0m17:	Serializable[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:20: expected class or object definition[0m
+[0m[[31merror[0m] [0m18:	MethodSymbol(<init>, owner=0, flags=200, info=20 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:21: expected class or object definition[0m
+[0m[[31merror[0m] [0m19:	<init>[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:22: expected class or object definition[0m
+[0m[[31merror[0m] [0m20:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List()),List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:23: expected class or object definition[0m
+[0m[[31merror[0m] [0m21:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:24: expected class or object definition[0m
+[0m[[31merror[0m] [0m22:	ThisType(<empty>)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:25: expected class or object definition[0m
+[0m[[31merror[0m] [0m23:	MethodSymbol(copy, owner=0, flags=200200, info=20 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:26: expected class or object definition[0m
+[0m[[31merror[0m] [0m24:	copy[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:27: expected class or object definition[0m
+[0m[[31merror[0m] [0m25:	MethodSymbol(productPrefix, owner=0, flags=200220, info=27 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:28: expected class or object definition[0m
+[0m[[31merror[0m] [0m26:	productPrefix[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:29: expected class or object definition[0m
+[0m[[31merror[0m] [0m27:	NullaryMethodType(TypeRefType(ThisType(java.lang),java.lang.String,List()))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:30: expected class or object definition[0m
+[0m[[31merror[0m] [0m28:	TypeRefType(ThisType(java.lang),java.lang.String,List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:31: expected class or object definition[0m
+[0m[[31merror[0m] [0m29:	ThisType(java.lang)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:32: expected class or object definition[0m
+[0m[[31merror[0m] [0m30:	java.lang[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:33: expected class or object definition[0m
+[0m[[31merror[0m] [0m31:	lang[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:34: expected class or object definition[0m
+[0m[[31merror[0m] [0m32:	java[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:35: expected class or object definition[0m
+[0m[[31merror[0m] [0m33:	java[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:36: expected class or object definition[0m
+[0m[[31merror[0m] [0m34:	java.lang.String[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:37: expected class or object definition[0m
+[0m[[31merror[0m] [0m35:	String[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:38: expected class or object definition[0m
+[0m[[31merror[0m] [0m36:	MethodSymbol(productArity, owner=0, flags=200200, info=38 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:39: expected class or object definition[0m
+[0m[[31merror[0m] [0m37:	productArity[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:40: expected class or object definition[0m
+[0m[[31merror[0m] [0m38:	NullaryMethodType(TypeRefType(ThisType(scala),scala.Int,List()))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:41: expected class or object definition[0m
+[0m[[31merror[0m] [0m39:	TypeRefType(ThisType(scala),scala.Int,List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:42: expected class or object definition[0m
+[0m[[31merror[0m] [0m40:	scala.Int[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:43: expected class or object definition[0m
+[0m[[31merror[0m] [0m41:	Int[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:44: expected class or object definition[0m
+[0m[[31merror[0m] [0m42:	MethodSymbol(productElement, owner=0, flags=200200, info=44 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:45: expected class or object definition[0m
+[0m[[31merror[0m] [0m43:	productElement[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:46: expected class or object definition[0m
+[0m[[31merror[0m] [0m44:	MethodType(TypeRefType(ThisType(scala),scala.Any,List()),List(MethodSymbol(x$1, owner=42, flags=202000, info=39 ,None)))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:47: expected class or object definition[0m
+[0m[[31merror[0m] [0m45:	TypeRefType(ThisType(scala),scala.Any,List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:48: expected class or object definition[0m
+[0m[[31merror[0m] [0m46:	scala.Any[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:49: expected class or object definition[0m
+[0m[[31merror[0m] [0m47:	Any[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:50: expected class or object definition[0m
+[0m[[31merror[0m] [0m48:	MethodSymbol(x$1, owner=42, flags=202000, info=39 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:51: expected class or object definition[0m
+[0m[[31merror[0m] [0m49:	x$1[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:52: expected class or object definition[0m
+[0m[[31merror[0m] [0m50:	MethodSymbol(productIterator, owner=0, flags=200220, info=52 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:53: expected class or object definition[0m
+[0m[[31merror[0m] [0m51:	productIterator[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:54: expected class or object definition[0m
+[0m[[31merror[0m] [0m52:	NullaryMethodType(TypeRefType(ThisType(scala.collection),scala.collection.Iterator,List(TypeRefType(ThisType(scala),scala.Any,List()))))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:55: expected class or object definition[0m
+[0m[[31merror[0m] [0m53:	TypeRefType(ThisType(scala.collection),scala.collection.Iterator,List(TypeRefType(ThisType(scala),scala.Any,List())))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:56: expected class or object definition[0m
+[0m[[31merror[0m] [0m54:	ThisType(scala.collection)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:57: expected class or object definition[0m
+[0m[[31merror[0m] [0m55:	scala.collection[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:58: expected class or object definition[0m
+[0m[[31merror[0m] [0m56:	collection[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:59: expected class or object definition[0m
+[0m[[31merror[0m] [0m57:	scala.collection.Iterator[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:60: expected class or object definition[0m
+[0m[[31merror[0m] [0m58:	Iterator[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:61: expected class or object definition[0m
+[0m[[31merror[0m] [0m59:	MethodSymbol(canEqual, owner=0, flags=200200, info=61 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:62: expected class or object definition[0m
+[0m[[31merror[0m] [0m60:	canEqual[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:63: expected class or object definition[0m
+[0m[[31merror[0m] [0m61:	MethodType(TypeRefType(ThisType(scala),scala.Boolean,List()),List(MethodSymbol(x$1, owner=59, flags=202000, info=45 ,None)))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:64: expected class or object definition[0m
+[0m[[31merror[0m] [0m62:	TypeRefType(ThisType(scala),scala.Boolean,List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:65: expected class or object definition[0m
+[0m[[31merror[0m] [0m63:	scala.Boolean[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:66: expected class or object definition[0m
+[0m[[31merror[0m] [0m64:	Boolean[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:67: expected class or object definition[0m
+[0m[[31merror[0m] [0m65:	MethodSymbol(x$1, owner=59, flags=202000, info=45 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:68: expected class or object definition[0m
+[0m[[31merror[0m] [0m66:	MethodSymbol(hashCode, owner=0, flags=200220, info=68 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:69: expected class or object definition[0m
+[0m[[31merror[0m] [0m67:	hashCode[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:70: expected class or object definition[0m
+[0m[[31merror[0m] [0m68:	MethodType(TypeRefType(ThisType(scala),scala.Int,List()),List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:71: expected class or object definition[0m
+[0m[[31merror[0m] [0m69:	MethodSymbol(toString, owner=0, flags=200220, info=71 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:72: expected class or object definition[0m
+[0m[[31merror[0m] [0m70:	toString[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:73: expected class or object definition[0m
+[0m[[31merror[0m] [0m71:	MethodType(TypeRefType(ThisType(java.lang),java.lang.String,List()),List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:74: expected class or object definition[0m
+[0m[[31merror[0m] [0m72:	MethodSymbol(equals, owner=0, flags=200220, info=74 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:75: expected class or object definition[0m
+[0m[[31merror[0m] [0m73:	equals[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:76: expected class or object definition[0m
+[0m[[31merror[0m] [0m74:	MethodType(TypeRefType(ThisType(scala),scala.Boolean,List()),List(MethodSymbol(x$1, owner=72, flags=202000, info=45 ,None)))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:77: expected class or object definition[0m
+[0m[[31merror[0m] [0m75:	MethodSymbol(x$1, owner=72, flags=202000, info=45 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:78: expected class or object definition[0m
+[0m[[31merror[0m] [0m76:	ObjectSymbol(MyRecordB, owner=<empty>, flags=200400, info=78 )[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:79: expected class or object definition[0m
+[0m[[31merror[0m] [0m77:	MyRecordB[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:80: expected class or object definition[0m
+[0m[[31merror[0m] [0m78:	TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=80 ,None),List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:81: expected class or object definition[0m
+[0m[[31merror[0m] [0m79:	ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=80 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:82: expected class or object definition[0m
+[0m[[31merror[0m] [0m80:	ClassInfoType(ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=80 ,None),List(TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction0,List(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List()))), TypeRefType(ThisType(scala),scala.Serializable,List())))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:83: expected class or object definition[0m
+[0m[[31merror[0m] [0m81:	TypeRefType(ThisType(scala.runtime),scala.runtime.AbstractFunction0,List(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=40, info=5 ,None),List())))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:84: expected class or object definition[0m
+[0m[[31merror[0m] [0m82:	ThisType(scala.runtime)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:85: expected class or object definition[0m
+[0m[[31merror[0m] [0m83:	scala.runtime[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:86: expected class or object definition[0m
+[0m[[31merror[0m] [0m84:	runtime[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:87: expected class or object definition[0m
+[0m[[31merror[0m] [0m85:	scala.runtime.AbstractFunction0[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:88: expected class or object definition[0m
+[0m[[31merror[0m] [0m86:	AbstractFunction0[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:89: expected class or object definition[0m
+[0m[[31merror[0m] [0m87:	MethodSymbol(<init>, owner=79, flags=200, info=88 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:90: expected class or object definition[0m
+[0m[[31merror[0m] [0m88:	MethodType(TypeRefType(ThisType(<empty>),ClassSymbol(MyRecordB, owner=<empty>, flags=200400, info=80 ,None),List()),List())[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:91: expected class or object definition[0m
+[0m[[31merror[0m] [0m89:	MethodSymbol(toString, owner=79, flags=200222, info=71 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:92: expected class or object definition[0m
+[0m[[31merror[0m] [0m90:	MethodSymbol(apply, owner=79, flags=200240, info=20 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:93: expected class or object definition[0m
+[0m[[31merror[0m] [0m91:	apply[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:94: expected class or object definition[0m
+[0m[[31merror[0m] [0m92:	MethodSymbol(unapply, owner=79, flags=200240, info=94 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:95: expected class or object definition[0m
+[0m[[31merror[0m] [0m93:	unapply[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:96: expected class or object definition[0m
+[0m[[31merror[0m] [0m94:	MethodType(TypeRefType(ThisType(scala),scala.Boolean,List()),List(MethodSymbol(x$0, owner=92, flags=2000, info=21 ,None)))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:97: expected class or object definition[0m
+[0m[[31merror[0m] [0m95:	MethodSymbol(x$0, owner=92, flags=2000, info=21 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:98: expected class or object definition[0m
+[0m[[31merror[0m] [0m96:	x$0[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:99: expected class or object definition[0m
+[0m[[31merror[0m] [0m97:	MethodSymbol(readResolve, owner=79, flags=200204, info=99 ,None)[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/scalasig-caseclass-experiments/MyRecord_5104.scala:100: expected class or object definition[0m
+[0m[[31merror[0m] [0m98:	readResolve[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m499 errors found[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
+[0m[[31merror[0m] [0mTotal time: 5 s, completed Jul 16, 2013 1:29:10 PM[0m
