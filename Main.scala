@@ -104,7 +104,7 @@ object Main extends App{
   val scalaSigs = classes.map(cls => Map("name" -> cls.getSimpleName, "scalaSig" -> ScalaSigParser.parse(cls)))
 
   for (scalaSig <- scalaSigs) {   
-    Some(new PrintWriter("""scalaSigs/2.9.1"""+scalaSig("name"))).foreach{pw => pw.write(scalaSig("scalaSig").toString
+    Some(new PrintWriter("""scalaSigs/2.11.4"""+scalaSig("name"))).foreach{pw => pw.write(scalaSig("scalaSig").toString
 ); pw.close} 
   }
 }
